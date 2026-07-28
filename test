@@ -714,3 +714,419 @@ Perfect for sharing with friends.
 </div>
 
 </section>
+<!-- ==========================================
+     STORY BANNER
+========================================== -->
+
+<section class="story-banner">
+
+    <div class="story-overlay"></div>
+
+    <div class="container">
+
+        <span class="story-subtitle">
+            Celebrate Every Occasion
+        </span>
+
+        <h2>
+            Every Moment Deserves<br>
+            Something Extraordinary
+        </h2>
+
+        <p>
+
+            At Car'Ess we believe that exceptional flavours transform
+            everyday moments into lasting memories.
+            Whether you're sharing premium chocolate, celebrating with
+            friends or discovering authentic local delicacies,
+            every selection has been carefully curated for you.
+
+        </p>
+
+        <a href="#" class="btn-primary">
+
+            Explore Collection
+
+        </a>
+
+    </div>
+
+</section>
+
+
+
+<!-- ==========================================
+     INSPIRED MOMENTS
+========================================== -->
+
+<section class="instagram">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <span>Inspired Moments</span>
+
+            <h2>Life Tastes Better Together</h2>
+
+            <p>
+                Beautiful moments shared by our customers.
+            </p>
+
+        </div>
+
+        <div class="gallery">
+
+            <div class="gallery-item large"></div>
+
+            <div class="gallery-item"></div>
+
+            <div class="gallery-item tall"></div>
+
+            <div class="gallery-item"></div>
+
+            <div class="gallery-item wide"></div>
+
+            <div class="gallery-item"></div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- ==========================================
+     JOURNAL
+========================================== -->
+
+<section class="journal">
+
+<div class="container">
+
+<div class="section-title">
+
+<span>
+
+Journal
+
+</span>
+
+<h2>
+
+Discover Stories & Pairings
+
+</h2>
+
+</div>
+
+<div class="journal-grid">
+
+<article>
+
+<h3>
+
+Five Chocolate Pairings You'll Love
+
+</h3>
+
+<p>
+
+Discover combinations that elevate every tasting experience.
+
+</p>
+
+<a href="#">
+
+Read Story →
+
+</a>
+
+</article>
+
+
+
+<article>
+
+<h3>
+
+The Art of Giving Gourmet Gifts
+
+</h3>
+
+<p>
+
+Create unforgettable presents with carefully selected flavours.
+
+</p>
+
+<a href="#">
+
+Read Story →
+
+</a>
+
+</article>
+
+
+
+<article>
+
+<h3>
+
+Nordic Flavours Worth Discovering
+
+</h3>
+
+<p>
+
+Explore authentic local products chosen by Car'Ess.
+
+</p>
+
+<a href="#">
+
+Read Story →
+
+</a>
+
+</article>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- ==========================================
+     NEWSLETTER
+========================================== -->
+
+<section class="newsletter">
+
+<div class="container">
+
+<h2>
+
+Join the Car'Ess Gourmet Circle
+
+</h2>
+
+<p>
+
+Receive seasonal discoveries,
+exclusive collections and pairing inspiration.
+
+</p>
+
+<form>
+
+<input
+
+type="email"
+
+placeholder="Your email address"
+
+required>
+
+<button>
+
+Join
+
+</button>
+
+</form>
+
+</div>
+
+</section>
+
+
+
+<!-- ==========================================
+     SHOPPING BAG DRAWER
+========================================== -->
+
+<aside id="shoppingDrawer">
+
+<div class="drawer-header">
+
+<h2>
+
+Your Curated Selection
+
+</h2>
+
+<button id="closeDrawer">
+
+×
+
+</button>
+
+</div>
+
+<div id="cartItems">
+
+<p>
+
+Your gourmet selection awaits...
+
+</p>
+
+</div>
+
+<div class="drawer-footer">
+
+<div class="total">
+
+<span>Total</span>
+
+<strong id="totalPrice">
+
+€0.00
+
+</strong>
+
+</div>
+
+<button class="checkout-button">
+
+Complete Your Selection
+
+</button>
+
+</div>
+
+</aside>
+
+
+
+<!-- ==========================================
+     FOOTER
+========================================== -->
+
+<footer>
+
+<div class="container footer-grid">
+
+<div>
+
+<img
+
+src="assets/logo.svg"
+
+class="footer-logo"
+
+alt="Car'Ess">
+
+<p>
+
+Crafting memorable moments
+through exceptional flavours.
+
+</p>
+
+</div>
+
+<div>
+
+<h4>
+
+Collections
+
+</h4>
+
+<ul>
+
+<li>Sweet Moments</li>
+
+<li>Cheers!</li>
+
+<li>Local Treasures</li>
+
+<li>Most Loved</li>
+
+</ul>
+
+</div>
+
+<div>
+
+<h4>
+
+Explore
+
+</h4>
+
+<ul>
+
+<li>Pairings</li>
+
+<li>Journal</li>
+
+<li>Gift Guide</li>
+
+<li>About</li>
+
+</ul>
+
+</div>
+
+<div>
+
+<h4>
+
+Contact
+
+</h4>
+
+<p>
+
+info@caress.fi
+
+</p>
+
+<p>
+
++358 XX XXX XXXX
+
+</p>
+
+<p>
+
+Finland
+
+</p>
+
+</div>
+
+</div>
+
+<div class="copyright">
+
+© 2026 Car'Ess · Gourmet Collection · All Rights Reserved
+
+</div>
+
+</footer>
+
+
+
+<!-- Toast -->
+
+<div id="toast">
+
+Added to Your Curated Selection
+
+</div>
+
+
+
+<script src="js/app.js"></script>
+
+</body>
+
+</html>
