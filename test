@@ -241,3 +241,476 @@
             </div>
 
             <div class="collections-grid">
+<div class="collections-grid">
+<!-- Sweet Moments -->
+
+<article class="collection-card">
+
+    <div class="collection-image">
+
+        <img src="assets/images/geisha.webp"
+            alt="Sweet Moments">
+
+    </div>
+
+    <div class="collection-content">
+
+        <span class="collection-number">
+            01
+        </span>
+
+        <h3>Sweet Moments</h3>
+
+        <p>
+
+            Discover carefully selected chocolates,
+            artisanal biscuits and delightful gift ideas
+            crafted to make every day a little sweeter.
+
+        </p>
+
+        <ul>
+
+            <li>Premium Chocolate</li>
+
+            <li>Artisanal Biscuits</li>
+
+            <li>Gift Boxes</li>
+
+        </ul>
+
+        <a href="#" class="collection-link">
+
+            Explore Collection →
+
+        </a>
+
+    </div>
+
+</article>
+
+
+<!-- Cheers -->
+
+<article class="collection-card">
+
+    <div class="collection-image">
+
+        <img src="assets/images/kupela.webp"
+            alt="Cheers">
+
+    </div>
+
+    <div class="collection-content">
+
+        <span class="collection-number">
+            02
+        </span>
+
+        <h3>Cheers!</h3>
+
+        <p>
+
+            Celebrate life's finest moments with
+            premium beverages selected for every
+            occasion.
+
+        </p>
+
+        <ul>
+
+            <li>Long Drinks</li>
+
+            <li>Ciders</li>
+
+            <li>Premium Spirits</li>
+
+        </ul>
+
+        <a href="#" class="collection-link">
+
+            Explore Collection →
+
+        </a>
+
+    </div>
+
+</article>
+
+
+<!-- Local Treasures -->
+
+<article class="collection-card">
+
+    <div class="collection-image">
+
+        <img src="assets/images/koff.png"
+            alt="Local Treasures">
+
+    </div>
+
+    <div class="collection-content">
+
+        <span class="collection-number">
+            03
+        </span>
+
+        <h3>Local Treasures</h3>
+
+        <p>
+
+            Authentic flavours inspired by Nordic
+            traditions and carefully chosen artisan
+            producers.
+
+        </p>
+
+        <ul>
+
+            <li>Local Foods</li>
+
+            <li>Coffee & Tea</li>
+
+            <li>Seasonal Discoveries</li>
+
+        </ul>
+
+        <a href="#" class="collection-link">
+
+            Explore Collection →
+
+        </a>
+
+    </div>
+
+</article>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- ===========================
+     MOST LOVED
+============================ -->
+
+<section class="most-loved">
+
+<div class="container">
+
+<div class="section-title">
+
+<span>
+
+Most Loved
+
+</span>
+
+<h2>
+
+Chosen Again & Again
+
+</h2>
+
+<p>
+
+Our customers' favourite gourmet discoveries.
+
+</p>
+
+</div>
+
+<div class="products-grid">
+
+<!-- Product -->
+
+<div class="product-card"
+
+draggable="true"
+
+data-name="Geisha Chocolate"
+
+data-price="6.90">
+
+<div class="badge">
+
+Most Loved
+
+</div>
+
+<img src="assets/images/geisha.webp"
+
+alt="Geisha">
+
+<h3>
+
+Geisha Chocolate
+
+</h3>
+
+<p>
+
+Smooth milk chocolate with
+hazelnut filling.
+
+</p>
+
+<div class="price">
+
+€6.90
+
+</div>
+
+<div class="drag-label">
+
+👜 Drag to Your Bag
+
+</div>
+
+</div>
+
+
+
+<div class="product-card"
+
+draggable="true"
+
+data-name="Lindt"
+
+data-price="7.90">
+
+<div class="badge">
+
+Most Loved
+
+</div>
+
+<img src="assets/images/lindt.webp"
+
+alt="Lindt">
+
+<h3>
+
+Lindt Excellence
+
+</h3>
+
+<p>
+
+Premium Swiss chocolate
+crafted for true indulgence.
+
+</p>
+
+<div class="price">
+
+€7.90
+
+</div>
+
+<div class="drag-label">
+
+👜 Drag to Your Bag
+
+</div>
+
+</div>
+
+
+
+<div class="product-card"
+
+draggable="true"
+
+data-name="KOFF Long Drink"
+
+data-price="4.50">
+
+<div class="badge">
+
+Most Loved
+
+</div>
+
+<img src="assets/images/koff.png"
+
+alt="KOFF">
+
+<h3>
+
+KOFF Long Drink
+
+</h3>
+
+<p>
+
+Refreshing premium long drink
+perfect for celebrations.
+
+</p>
+
+<div class="price">
+
+€4.50
+
+</div>
+
+<div class="drag-label">
+
+👜 Drag to Your Bag
+
+</div>
+
+</div>
+
+
+
+<div class="product-card"
+
+draggable="true"
+
+data-name="Kupela"
+
+data-price="8.90">
+
+<div class="badge">
+
+Most Loved
+
+</div>
+
+<img src="assets/images/kupela.webp"
+
+alt="Kupela">
+
+<h3>
+
+Kupela Demi-Sec
+
+</h3>
+
+<p>
+
+Elegant sparkling cider
+with fruity character.
+
+</p>
+
+<div class="price">
+
+€8.90
+
+</div>
+
+<div class="drag-label">
+
+👜 Drag to Your Bag
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- ===========================
+     PERFECT PAIRINGS
+============================ -->
+
+<section class="pairings">
+
+<div class="container">
+
+<div class="section-title">
+
+<span>
+
+Perfect Together
+
+</span>
+
+<h2>
+
+Curated Pairings
+
+</h2>
+
+</div>
+
+<div class="pairing-grid">
+
+<div class="pair-card">
+
+<h3>
+
+🍫 Lindt
+
++
+
+🥂 Kupela
+
+</h3>
+
+<p>
+
+A refined pairing for relaxed evenings.
+
+</p>
+
+</div>
+
+<div class="pair-card">
+
+<h3>
+
+🍫 Geisha
+
++
+
+☕
+
+Coffee
+
+</h3>
+
+<p>
+
+A timeless Nordic coffee break.
+
+</p>
+
+</div>
+
+<div class="pair-card">
+
+<h3>
+
+🍺 KOFF
+
++
+
+🧀 Gourmet Snacks
+
+</h3>
+
+<p>
+
+Perfect for sharing with friends.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
