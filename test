@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Car'Ess | Taste. Discover. Indulge.</title>
+
+    <meta name="description"
+        content="Premium chocolates, artisanal biscuits, exceptional beverages and authentic local delicacies.">
+
+    <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+    <!-- ===========================
+         PRELOADER
+    ============================ -->
+
+    <div id="preloader">
+
+        <div class="logo-animation">
+
+            <img src="assets/logo.svg"
+                alt="Car'Ess Logo">
+
+        </div>
+
+    </div>
+
+
+    <!-- ===========================
+         GOLDEN JOURNEY
+    ============================ -->
+
+    <div class="golden-journey"></div>
+
+
+    <!-- ===========================
+         HEADER
+    ============================ -->
+
+    <header id="header">
+
+        <div class="container">
+
+            <a class="logo" href="#">
+
+                <img src="assets/logo.svg"
+                    alt="Car'Ess">
+
+            </a>
+
+            <nav>
+
+                <ul>
+
+                    <li><a href="#">Home</a></li>
+
+                    <li class="dropdown">
+
+                        <a href="#">Collections</a>
+
+                        <ul class="submenu">
+
+                            <li>
+                                <a href="#">
+                                    Sweet Moments
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="#">
+                                    Cheers!
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="#">
+                                    Local Treasures
+                                </a>
+                            </li>
+
+                        </ul>
+
+                    </li>
+
+                    <li><a href="#">Pairings</a></li>
+
+                    <li><a href="#">Journal</a></li>
+
+                    <li><a href="#">About</a></li>
+
+                    <li><a href="#">Contact</a></li>
+
+                </ul>
+
+            </nav>
+
+
+            <!-- Shopping Bag -->
+
+            <div id="shoppingBag">
+
+                <div class="bag-icon">
+
+                    👜
+
+                    <span id="bagCounter">
+                        0
+                    </span>
+
+                </div>
+
+                <p>Your Curated Selection</p>
+
+            </div>
+
+        </div>
+
+    </header>
+
+
+    <!-- ===========================
+            HERO
+    ============================ -->
+
+    <section class="hero">
+
+        <div class="hero-overlay"></div>
+
+        <div class="container hero-content">
+
+            <div class="hero-text">
+
+                <span class="eyebrow">
+
+                    Premium Gourmet Collection
+
+                </span>
+
+                <h1>
+
+                    Taste.<br>
+
+                    Discover.<br>
+
+                    Indulge.
+
+                </h1>
+
+                <p>
+
+                    Premium chocolates,
+                    artisanal biscuits,
+                    exceptional beverages
+                    and carefully selected local delicacies
+                    crafted for unforgettable moments.
+
+                </p>
+
+                <a href="#collections"
+                    class="btn-primary">
+
+                    Explore Collection
+
+                </a>
+
+            </div>
+
+
+            <!-- Hero Products -->
+
+            <div class="hero-products">
+
+                <img class="floating product1"
+                    src="assets/images/geisha.webp"
+                    alt="Geisha Chocolate">
+
+                <img class="floating product2"
+                    src="assets/images/lindt.webp"
+                    alt="Lindt Chocolate">
+
+                <img class="floating product3"
+                    src="assets/images/koff.png"
+                    alt="KOFF Long Drink">
+
+                <img class="floating product4"
+                    src="assets/images/kupela.webp"
+                    alt="Kupela">
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ===========================
+          COLLECTIONS
+    ============================ -->
+
+    <section id="collections">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    Discover
+
+                </span>
+
+                <h2>
+
+                    Curated Collections
+
+                </h2>
+
+                <p>
+
+                    Every collection has been thoughtfully assembled to transform
+                    ordinary moments into memorable experiences.
+
+                </p>
+
+            </div>
+
+            <div class="collections-grid">
