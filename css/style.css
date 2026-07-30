@@ -249,7 +249,9 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
 }
 
 
-/* Soft dark transparent layer over the photograph */
+/* =========================================================
+   PHOTO OVERLAY
+   ========================================================= */
 
 .feeling-hero-overlay {
   position: absolute;
@@ -267,7 +269,9 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
 }
 
 
-/* Main content */
+/* =========================================================
+   MAIN CONTENT
+   ========================================================= */
 
 .feeling-hero-content {
   position: relative;
@@ -279,7 +283,9 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
 }
 
 
-/* Small gold title */
+/* =========================================================
+   SMALL GOLD HEADING
+   ========================================================= */
 
 .feeling-hero-kicker {
   margin-bottom: 24px;
@@ -294,7 +300,9 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
 }
 
 
-/* Main headline */
+/* =========================================================
+   MAIN HEADLINE
+   ========================================================= */
 
 .feeling-hero-title {
   max-width: 950px;
@@ -316,11 +324,13 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
   color: #fffaf2;
 
   text-shadow:
-    0 3px 25px rgba(0, 0, 0, 0.4);
+    0 3px 25px rgba(0, 0, 0, 0.40);
 }
 
 
-/* Supporting message */
+/* =========================================================
+   SUPPORTING MESSAGE
+   ========================================================= */
 
 .feeling-hero-text {
   max-width: 680px;
@@ -333,11 +343,13 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
   line-height: 1.75;
 
   text-shadow:
-    0 2px 12px rgba(0, 0, 0, 0.4);
+    0 2px 12px rgba(0, 0, 0, 0.40);
 }
 
 
-/* Our Story button */
+/* =========================================================
+   OUR STORY BUTTON
+   ========================================================= */
 
 .feeling-hero-button {
   display: inline-flex;
@@ -396,7 +408,7 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
 }
 
 
-/* Smaller and more transparent than before */
+/* Four small, discreet sparkles */
 
 .feeling-sparkles span {
   position: absolute;
@@ -418,7 +430,9 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
 }
 
 
-/* Only four sparkles */
+/* =========================================================
+   SPARKLE POSITIONS
+   ========================================================= */
 
 .feeling-sparkles span:nth-child(1) {
   top: 20%;
@@ -451,6 +465,10 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
   animation-delay: 4.5s;
 }
 
+
+/* =========================================================
+   SPARKLE ANIMATION
+   ========================================================= */
 
 @keyframes feelingSparkle {
 
@@ -487,15 +505,19 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
 
   .feeling-hero-kicker {
     font-size: 0.65rem;
+
     letter-spacing: 0.22em;
   }
 
   .feeling-hero-title {
     font-size: clamp(2.7rem, 12vw, 4.2rem);
+
+    line-height: 0.98;
   }
 
   .feeling-hero-text {
     font-size: 0.92rem;
+
     line-height: 1.65;
   }
 
