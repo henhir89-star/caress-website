@@ -273,14 +273,16 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
    MAIN CONTENT
    ========================================================= */
 
-.feeling-hero-content {
-  position: relative;
-  z-index: 3;
-
-  width: min(100% - 40px, 1000px);
-
-  padding: 100px 20px;
+.feeling-hero-button-wrap {
+  position: absolute;
+  left: 50%;
+  bottom: 45px;
+  transform: translateX(-50%);
+  z-index: 4;
 }
+
+
+
 
 
 /* =========================================================
