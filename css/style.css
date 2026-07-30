@@ -499,11 +499,6 @@ h1,h2,h3,h4{font-family:"Cormorant Garamond",Georgia,serif;line-height:1.05;font
     background-position: 58% center;
   }
 
-  .feeling-hero-content {
-    width: calc(100% - 28px);
-
-    padding: 80px 14px;
-  }
 
   .feeling-hero-kicker {
     font-size: 0.65rem;
